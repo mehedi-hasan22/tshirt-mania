@@ -1,0 +1,19 @@
+.header a {
+    text-decoration: none;
+    margin: 20px;
+    border: 1px solid #0275d8;
+    color: #0275d8;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.header a:hover {
+    background-color: #0275d8;
+    color: #fff;
+}
+
+.header {
+    margin-top: 20px;
+}
